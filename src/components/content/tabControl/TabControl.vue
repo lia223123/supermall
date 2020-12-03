@@ -40,6 +40,7 @@ export default {
   text-align: center;
   display: flex;
   background-color: #fff;
+  height: 36px;
   padding: 5px;
 }
 .TabControl-item{

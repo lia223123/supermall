@@ -14,7 +14,9 @@ export default {
   props:{
     goods:{
       type:Array,
-      default:[]
+      default(){
+        return []
+      }
     }
   }
 }
